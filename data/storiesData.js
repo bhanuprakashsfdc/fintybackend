@@ -9,7 +9,7 @@ const stories = {
         "In surprise move, President Emmanuel Macron calls elections in France after defeat in EU vote",
         "Nifty 50, Sensex today: What to expect from Indian stock market in trade on June 10 after Narendra Modi sworn in as PM",
         "Retail investors outplay FIIs, MFs on 4 June",
-        "Dividend stocks: Dr. Lal PathLabs, Nelco shares to trade ex-dividend on June 10",
+        "Dividend stocks: 1Dr. Lal PathLabs, Nelco shares to trade ex-dividend on June 10",
         "Stock market today: Balrampur Chini Mills, SAIL, ZEEL stocks on F&O ban list on June 10"
     ]
 };
