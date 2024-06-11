@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3001;
-const companiesRoutes = require('./routes/companiesRoutes');
-const storiesRoutes = require('./routes/storiesRoutes');
+const companiesRoutes = require('../routes/companiesRoutes');
+const storiesRoutes = require('../routes/storiesRoutes');
 const cors = require('cors');
 
 // Middleware
